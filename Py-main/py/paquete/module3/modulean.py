@@ -1,0 +1,12 @@
+print("Ingrese el primer numero:")
+a = float(input())
+print("Ingrese el segundo numero:")
+b = float(input())
+print("Ingrese el tercer numero:")
+c = float(input())
+print("Ingrese el cuarto numero:")
+d = float(input())
+a * b * c * d
+print(a * b * c * d)
+print("Presione enter para salir")
+exit()
